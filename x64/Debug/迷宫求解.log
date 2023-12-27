@@ -1,0 +1,3 @@
+﻿  maze.cpp
+D:\c++\练习\迷宫求解\maze.cpp(27,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  迷宫求解.vcxproj -> D:\c++\练习\迷宫求解\x64\Debug\迷宫求解.exe
